@@ -147,7 +147,7 @@ curl -X GET http://localhost:8080/profile -H "Authorization: Bearer <TOKEN>"
 
 ## Author
 
-Deepak Adam
+Deepak Kadam
 
 ## Screenshots
 
